@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "organization": "evento-globolo",
+  "tracking_issue": "DEN-1889",
+  "repositories": [
+    {
+      "name": "evgl-interfaces",
+      "ref": "main"
+    },
+    {
+      "name": "evgl-api",
+      "ref": "main"
+    },
+    {
+      "name": "evgl-mash-web",
+      "ref": "main"
+    },
+    {
+      "name": "evgl-leptos-web",
+      "ref": "main"
+    },
+    {
+      "name": "evgl-dioxus-web",
+      "ref": "main"
+    },
+    {
+      "name": "evgl-sync",
+      "ref": "main"
+    },
+    {
+      "name": "evgl-cli",
+      "ref": "main"
+    },
+    {
+      "name": "evgl-infra",
+      "ref": "main"
+    },
+    {
+      "name": "evento-globolo-clients",
+      "ref": "main"
+    },
+    {
+      "name": "evento-globolo-libs",
+      "ref": "main"
+    },
+    {
+      "name": "evento-globolo.github.io",
+      "ref": "main"
+    }
+  ]
+}
