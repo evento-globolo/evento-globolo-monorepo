@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "repository": "evento-globolo/evento-globolo-monorepo",
+  "status": "noncanonical_redirect",
+  "canonicalRepository": "evento-globolo/evgl-monorepo",
+  "canonicalBranch": "main",
+  "decision": "duplicate-fold-2026-09-15",
+  "decidedAt": "2026-09-15",
+  "publishingAllowed": false,
+  "sourceChangesAllowed": false
+}
